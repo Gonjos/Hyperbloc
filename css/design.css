@@ -1,6 +1,6 @@
 body
 {
-    color: #333;
+    color: rgb(158, 114, 114);
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
@@ -12,7 +12,7 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #ddd;
+    border: 1px solid rgb(163, 138, 138);
     margin: 0 auto;
 }
 
