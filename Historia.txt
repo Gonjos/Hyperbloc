@@ -1,5 +1,0 @@
-Hola mi nombre es Edman Gonzalez.
-Y estoy aprendiendo Git y GitHub.
-
-Esta es en realidad la cuarta version,simplemente utilice un hard reset  y me devolvio
-a la segunda version.
